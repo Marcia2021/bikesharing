@@ -24,6 +24,8 @@ In this analysis, we focused on August 2019 data in New York City, Des Moines. W
 
 ## Results
 
+[link to CitiBike Trip Analysis Tableau Story](https://public.tableau.com/app/profile/miaomiao.shen/viz/NYCCitiBikeAnalysis_16226726258510/Story1)
+
 1.	After converted “tripduration” to datetime datatype:
 
     Before conversion:
